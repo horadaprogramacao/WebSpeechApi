@@ -1,0 +1,24 @@
+*{
+	margin: 0; 
+    padding: 0; 
+    border: 0; 
+}
+
+html {
+	width: 100%;
+	font-family: 'Lato', sans-serif;
+	background: #3A6EA5;
+	color: #fff;
+	text-shadow: #000 1px 1px 1px;
+}
+
+body {
+	width: 50%;
+	margin: auto;
+	padding-top: 20%;
+}
+
+#transcricao {
+	color: #FF6700;
+	text-transform: uppercase;
+}
